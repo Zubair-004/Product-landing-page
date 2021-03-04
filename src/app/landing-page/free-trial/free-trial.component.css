@@ -1,0 +1,44 @@
+#first{
+    background-color: azure;
+    position: relative;
+}
+
+#second{
+    background-color: #2490ef;
+    margin:0 20% 0 20% ;
+    justify-content: center;
+    border-radius: 8px;
+    box-shadow: 4px 4px 25px grey;
+    position: relative;
+}
+
+#title{
+    color: white;
+    padding: 8% 0 0 36.5%;
+    text-shadow: 1px 1px 8px black;
+
+}
+
+.description1{
+    color: white;
+    margin:2% 0 0 26.5% ;
+    text-shadow: 1px 1px 8px black;
+}
+
+.description2{
+    color: white;
+    margin:0% 0 0% 18.5% ;
+    text-shadow: 1px 1px 8px black;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #b7dbfa;
+    color:#2490ef;
+    border-style: none;
+    width: 20%;
+    margin: 0 0 0 39%;
+    font-size: 120%;
+    box-shadow: 1px 1px 15px black;	
+    /* position: relative; */
+}
